@@ -1,2 +1,2 @@
-# coachdb-sif
+# couchdb-sif
 CouchDB in a Singularity Container
